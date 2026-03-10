@@ -1,2 +1,2 @@
 # ecommerce-sql-
-Optimización y generación de insigths a partir del ecommerce Olist, Brasil
+Optimización y generación de insights a partir del ecommerce Olist, Brasil
